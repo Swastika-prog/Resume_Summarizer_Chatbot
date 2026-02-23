@@ -1,0 +1,19 @@
+[theme]
+# A soft, calming blue for buttons and headers
+primaryColor = "#4F8BF9"
+
+# Off-white background to reduce eye strain
+backgroundColor = "#F8FAFC"
+
+# Light slate gray for sidebars and input boxes
+secondaryBackgroundColor = "#EDF2F6"
+
+# Deep charcoal (not pure black) for readable text
+textColor = "#2D3748"
+
+# Modern, clean font
+font = "sans serif"
+
+[ui]
+# Hides the "Deploy" button and extra menus for a cleaner look
+hideTopBar = true

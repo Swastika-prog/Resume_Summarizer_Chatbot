@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ChromaDB
+chroma_db/
+
+# Virtual environment
+.venv
+venv/
+ENV/
+env/
+penv/
+
+# IDE / Editor specific
+.vscode/
+.idea/
